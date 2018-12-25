@@ -1,2 +1,2 @@
 # Bono
-Bono de 5ptos sobre el 2do parcial - Ingenieria de software
+Bono de 5ptos sobre el 2do parcial - Ingenieria del software
