@@ -2,7 +2,7 @@ const http = require("http");
 const app = require("./app");
 var mongoose = require("mongoose");
 
-const port = process.env.PORT || 2424;
+const port = process.env.PORT || 3000;
 
 const server = http.createServer(app);
 
